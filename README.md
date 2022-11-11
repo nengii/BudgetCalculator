@@ -7,6 +7,8 @@ This repository contains resources on a budget calculator. The repository contai
 ### Case Study
 Sophia is a program manager at a fintech company, she is paid 1,200,000 million monthly and loves the baby girl lifestyle. The problem with this is that her savings cannot fund this lifestyle of hers as she spends excessively. This led to our contract project where sophia had to get us involved to help her track her expenses.
 
+### Link to Excel Project.
+[Excel Project] (https://1drv.ms/x/s!Ag22RZ1AWnaegVw-osmnfvnpYPsS?e=kHDaFL)
 ### Alpha Team Members
 
 -Mariam Adesina mariamadesina1@outlook.com
